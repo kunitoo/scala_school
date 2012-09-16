@@ -1,1 +1,8 @@
-target
+lib_managed/
+target/
+dist/
+project/boot/
+project/plugins/project/
+project/plugins/src_managed/
+*.log
+
